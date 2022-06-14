@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Aptos, Minima, Quai, Gear, Archway, Subspace, Starknet, Penumbra, Defund, Forta, Oasys, Peaq, Quicksilver, Sei, Celestia, Aura, Kujira**
 
+- End Testnet: **Archway**
+
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 
 - 📝 I regularly write articles on [https://teletype.in/@freshkillaz](https://teletype.in/@freshkillaz)

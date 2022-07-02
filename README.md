@@ -6,7 +6,7 @@
 
 - End Testnet: **Archway, Forta, Kujira**
 
-- Mainnet Validator: **[https://kujira.explorers.guru/validator/kujiravaloper1l5s7cwvllu5ve30wvajv8ssnee99kpu50l2csd](Kujira)**
+- Mainnet Validator: **[Kujira](https://kujira.explorers.guru/validator/kujiravaloper1l5s7cwvllu5ve30wvajv8ssnee99kpu50l2csd)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 

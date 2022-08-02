@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/bodu888" target="blank"><img src="https://img.shields.io/twitter/follow/bodu888?logo=twitter&style=for-the-badge" alt="bodu888" /></a> </p>
 
-- 🔭 I’m currently working on **Aptos, Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Oasys, Peaq, Sei, Celestia, Aura, Sui, Paloma, Another-1, Crowd Control, Bundlr, Teritori, Stride**
+- 🔭 I’m currently working on **Aptos, Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Oasys, Peaq, Sei, Celestia, Aura, Sui, Paloma, Another-1, Crowd Control, Bundlr, Teritori, Stride, Rebus**
 
 - End Testnet: **Archway, Forta, Kujira, Quicksilver**
 

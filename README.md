@@ -6,7 +6,7 @@
 
 - End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Paloma, Crowd Control, Stride**
 
-- Mainnet Validator: **[Kujira](https://kujira.explorers.guru/validator/kujiravaloper1l5s7cwvllu5ve30wvajv8ssnee99kpu50l2csd)**
+- Mainnet Validator: **[Kujira](https://kujira.explorers.guru/validator/kujiravaloper1l5s7cwvllu5ve30wvajv8ssnee99kpu50l2csd), [Stride](https://stride.explorers.guru/validator/stridevaloper1ey2yj5p0lkk2uu3kfrxd7ynk2qd0e50f586ke9)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 

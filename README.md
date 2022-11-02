@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/bodu888" target="blank"><img src="https://img.shields.io/twitter/follow/bodu888?logo=twitter&style=for-the-badge" alt="bodu888" /></a> </p>
 
-- 🔭 I’m currently working on **Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Oasys, Peaq, Sei, Celestia, Aura, Sui, Bundlr, Kwil, Quasar, Empower, Scroll, Uptick**
+- 🔭 I’m currently working on **Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Peaq, Sei, Celestia, Aura, Sui, Bundlr, Kwil, Quasar, Empower, Scroll, Uptick, Nibiru. Neutron**
 
-- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Paloma, Crowd Control, Stride**
+- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Paloma, Crowd Control, Stride, Oasys**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 

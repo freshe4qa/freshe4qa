@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Peaq, Sei, Celestia, Aura, Sui, Bundlr, Kwil, Quasar, Empower, Scroll, Uptick, Nibiru, Neutron, Exorde, Mars**
 
-- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Paloma, Crowd Control, Stride, Oasys**
+- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Stride, Oasys**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 

@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/bodu888" target="blank"><img src="https://img.shields.io/twitter/follow/bodu888?logo=twitter&style=for-the-badge" alt="bodu888" /></a> </p>
 
-- 🔭 I’m currently working on **Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Peaq, Sei, Celestia, Aura, Sui, Bundlr, Kwil, Quasar, Empower, Scroll, Uptick, Nibiru, Neutron, Exorde, Mars**
+- 🔭 I’m currently working on **Minima, Quai, Gear, Subspace, Starknet, Penumbra, Defund, Peaq, Sei, Celestia, Aura, Sui, Bundlr, Kwil, Quasar, Empower, Scroll, Uptick, Nibiru, Neutron, Exorde, Mars, 5ire**
 
 - End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Stride, Oasys**
 

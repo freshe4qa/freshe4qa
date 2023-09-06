@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/bodu888" target="blank"><img src="https://img.shields.io/twitter/follow/bodu888?logo=twitter&style=for-the-badge" alt="bodu888" /></a> </p>
 
-- 🔭 I’m currently working on **Quai, Gear, Subspace, Starknet, Penumbra, Defund, Celestia, Bundlr, Kwil, Scroll, Nibiru, Namada, Lava, Dymension, Lamina1, Babylon, Andromeda, Taiko, Cascadia, Opside, Kroma**
+- 🔭 I’m currently working on **Quai, Gear, Subspace, Starknet, Penumbra, Defund, Celestia, Bundlr, Kwil, Scroll, Nibiru, Namada, Lava, Dymension, Lamina1, Babylon, Andromeda, Taiko, Cascadia, Opside, Kroma, Fleek**
 
 - End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Stride, Oasys, Mars, White Whale, Aura, Exorde, Quasar, Uptick, Sui, Empower, Neutron, Sei**
 

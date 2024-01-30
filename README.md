@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/bodu888" target="blank"><img src="https://img.shields.io/twitter/follow/bodu888?logo=twitter&style=for-the-badge" alt="bodu888" /></a> </p>
 
-- 🔭 I’m currently working on **Quai, Gear, Subspace, Penumbra, Defund, Bundlr, Kwil, Namada, Lava, Dymension, Lamina1, Babylon, Taiko, Cascadia, Opside, Fleek, Arkeo, Vistara, Elixir, Holograph, Over, Artela**
+- 🔭 I’m currently working on **Quai, Gear, Subspace, Penumbra, Defund, Bundlr, Kwil, Namada, Lava, Dymension, Lamina1, Babylon, Taiko, Opside, Fleek, Arkeo, Vistara, Elixir, Holograph, Over, Artela, Eigenlayer, Waku**
 
-- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Stride, Oasys, Mars, White Whale, Aura, Exorde, Quasar, Uptick, Sui, Empower, Neutron, Sei, Kroma, Starknet, Scroll, Celestia, Nibiru, Andromeda**
+- End Testnet: **Archway, Forta, Kujira, Quicksilver, Aptos, Another-1, Stride, Oasys, Mars, White Whale, Aura, Exorde, Quasar, Uptick, Sui, Empower, Neutron, Sei, Kroma, Starknet, Scroll, Celestia, Nibiru, Andromeda, Cascadia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freshe4qa](https://github.com/freshe4qa)
 
